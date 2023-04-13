@@ -8,6 +8,6 @@ CREATE TABLE users (
     username VARCHAR(30) NOT NULL,
     password VARCHAR(30) NOT NULL,
     email VARCHAR(50) NOT NULL,
-    steam_id INT NOT NULL,
+    steam_id VARCHAR(20) NOT NULL,
     PRIMARY KEY (id)
 );
