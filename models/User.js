@@ -36,9 +36,8 @@ User.init(
       },
     },
     steamId: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false,
-      autoIncrement: true
     },
   },
   {
