@@ -1,0 +1,19 @@
+{
+    "response": {
+        "players": [
+            {
+                "steamid": "76561197960361544",
+                "communityvisibilitystate": 2,
+                "profilestate": 1,
+                "personaname": "aro",
+                "commentpermission": 1,
+                "profileurl": "https://steamcommunity.com/id/aro/",
+                "avatar": "https://avatars.akamai.steamstatic.com/a9e5bf672bb4c7837b9fbec8a76bc1184fb3b99f.jpg",
+                "avatarmedium": "https://avatars.akamai.steamstatic.com/a9e5bf672bb4c7837b9fbec8a76bc1184fb3b99f_medium.jpg",
+                "avatarfull": "https://avatars.akamai.steamstatic.com/a9e5bf672bb4c7837b9fbec8a76bc1184fb3b99f_full.jpg",
+                "avatarhash": "a9e5bf672bb4c7837b9fbec8a76bc1184fb3b99f",
+                "personastate": 0
+            }
+        ]
+    }
+}
